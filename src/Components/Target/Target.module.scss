@@ -1,0 +1,88 @@
+@import './../../variables.scss';
+
+.Target {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 5%;
+}
+
+.Target__link {
+    display: inline-block;
+    color: $basic-white;
+    text-decoration: none;
+    padding: 4px 8px;
+    background-color: $light-green;
+    border-radius: 4px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all .2s;
+    white-space: nowrap;
+    letter-spacing: 1px;
+
+    &:hover {
+        background-color: darken($light-green, 30%);
+    }
+}
+
+.Target__text {
+    color: $light-text;
+}
+
+.Target__target {
+    font-size: 24px;
+    margin: 0;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.Target__title {
+    color: $dark-green;
+    font-size: 34px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.Target__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    // width: 100%;
+    // justify-content: center;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.Target__item {
+    color: $basic-white;
+    background-color: $dark-blue;
+    display: flex;
+    padding: 20px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.Target__item + .Target__item  {
+    margin-left: 20px;
+}
+
+.Target__text {
+    margin: 0;
+}
+
+@media (max-width: $tablet) {
+    .Target__list {
+        flex-direction: column;
+    }
+
+    .Target__item + .Target__item  {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .Target {
+        align-items: center;
+    }
+}

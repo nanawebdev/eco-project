@@ -1,0 +1,66 @@
+@import './../../variables.scss';
+
+.Footer {
+    padding: 40px 20px;
+    color: $basic-white;
+    background-color: $footer-bg;
+    // background: linear-gradient(90deg, rgba(48,99,49,1) 0%, rgba(62,131,63,1) 61%, rgba(114,203,116,1) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    flex: 0 0 auto;
+}
+
+.Footer h3 {
+    margin-bottom: 40px;
+}
+
+.Footer__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Footer__list i,
+.Footer__list  a {
+    color: $basic-white;
+}
+
+.Footer__list  a {
+    margin-left: 8px;
+}
+
+.Footer h3 {
+    margin: 0;
+}
+
+.Footer__link {
+    cursor: pointer;
+    text-decoration: none;
+    border: 1px solid $basic-white;
+    padding: 10px;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    transition: all .2s;
+
+    &:hover {
+        background-color: rgba($basic-white, 0.2);
+    }
+}
+
+.Footer__item {
+    margin-bottom: 8px;
+}
+
+.Footer__copyright {
+    font-size: 14px;
+}

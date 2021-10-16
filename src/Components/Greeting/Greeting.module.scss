@@ -1,8 +1,15 @@
 @import './../../variables.scss';
-// @import './../../app.scss';
 
 .Greeting {
-    width: 50%;
+//    background-color: #fff;
+   padding-top: 10%;
+   padding-left: 3%;
+   padding-right: 3%;
+   padding-bottom: 10%;
+   background-image: url('./../../plant.png');
+   background-position: 90% 0;
+   background-repeat: no-repeat;
+   background-size: contain;
 }
 
 .Greeting__greet {
@@ -13,13 +20,33 @@
     padding: 10px 20px;
     text-transform: uppercase;
     font-weight: 700;
+    margin-bottom: 10px;
+    display: inline-block;
 }
 
 .Greeting__title {
     color: $dark-text;
     font-weight: 700;
+    width: 50%;
+    font-size: 34px;
 }
 
 .Greeting__text {
     color: $light-text;
+    width: 50%;
+}
+
+@media (max-width: $tablet) {
+    .Greeting {
+        padding-top: 10%;
+    }
+
+    .Greeting__title,
+    .Greeting__text {
+        width: 100%;
+    }
+
+    .Greeting__greet {
+        margin-bottom: 160px;
+    }
 }
