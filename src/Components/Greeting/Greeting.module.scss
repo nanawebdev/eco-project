@@ -1,0 +1,23 @@
+@import './../../variables.scss';
+// @import './../../app.scss';
+
+.Greeting {
+    width: 50%;
+}
+
+.Greeting__greet {
+    color: $basic-white;
+    background: linear-gradient( 
+        0deg, rgb(118,194,27) 0%, rgb(167,218,66) 100%);
+    border-radius: 4px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+.Greeting__title {
+    color: $dark-text;
+}
+
+.Greeting__text {
+    color: $light-text;
+}
