@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ef8f995.chunk.css",
-    "main.js": "/static/js/main.bc1be338.chunk.js",
-    "main.js.map": "/static/js/main.bc1be338.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bd14d667.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bd14d667.js.map",
-    "static/js/2.5bc02d98.chunk.js": "/static/js/2.5bc02d98.chunk.js",
-    "static/js/2.5bc02d98.chunk.js.map": "/static/js/2.5bc02d98.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3ef8f995.chunk.css.map": "/static/css/main.3ef8f995.chunk.css.map",
-    "static/js/2.5bc02d98.chunk.js.LICENSE.txt": "/static/js/2.5bc02d98.chunk.js.LICENSE.txt",
-    "static/media/Greeting.module.scss": "/static/media/plant.0a9605fd.png"
+    "main.css": "/eco-project/static/css/main.f7715db0.chunk.css",
+    "main.js": "/eco-project/static/js/main.bc1be338.chunk.js",
+    "main.js.map": "/eco-project/static/js/main.bc1be338.chunk.js.map",
+    "runtime-main.js": "/eco-project/static/js/runtime-main.be50c007.js",
+    "runtime-main.js.map": "/eco-project/static/js/runtime-main.be50c007.js.map",
+    "static/js/2.5bc02d98.chunk.js": "/eco-project/static/js/2.5bc02d98.chunk.js",
+    "static/js/2.5bc02d98.chunk.js.map": "/eco-project/static/js/2.5bc02d98.chunk.js.map",
+    "index.html": "/eco-project/index.html",
+    "static/css/main.f7715db0.chunk.css.map": "/eco-project/static/css/main.f7715db0.chunk.css.map",
+    "static/js/2.5bc02d98.chunk.js.LICENSE.txt": "/eco-project/static/js/2.5bc02d98.chunk.js.LICENSE.txt",
+    "static/media/Greeting.module.scss": "/eco-project/static/media/plant.0a9605fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd14d667.js",
+    "static/js/runtime-main.be50c007.js",
     "static/js/2.5bc02d98.chunk.js",
-    "static/css/main.3ef8f995.chunk.css",
+    "static/css/main.f7715db0.chunk.css",
     "static/js/main.bc1be338.chunk.js"
   ]
 }
