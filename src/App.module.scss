@@ -1,15 +1,9 @@
 @import './variables.scss';
 
-// html,
-// body,
-// .App {
-//     height: 100%;
-//     font-family: Arial, Helvetica, sans-serif;
-// }
-
 .App {
     background-color: $light-bg;
     height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .App__container {
@@ -17,4 +11,5 @@
     max-width: 1440px;
     margin: 0 auto;
     display: flex;
+    flex-direction: column;
 }
