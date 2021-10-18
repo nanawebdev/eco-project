@@ -10,12 +10,12 @@ const Footer = () => {
                 <ul className={c.Footer__list}>
                     <li className={c.Footer__item}>
                         <a className={c.Footer__link} href="mailto:anna.web.dev1@gmail.com" area-label="ссылка на почту">
-                            <i class="far fa-envelope"></i>
+                            <i className="far fa-envelope"></i>
                         </a>
                     </li>
                     <li className={c.Footer__item}>
                         <a className={c.Footer__link} href="https://www.instagram.com/anna.web.dev/" area-label="ссылка на инстаграм">
-                            <i class="fab fa-instagram"></i>
+                            <i className="fab fa-instagram"></i>
                         </a>
                     </li>
                 </ul>
