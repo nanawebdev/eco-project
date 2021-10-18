@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/eco-project/static/css/main.f7715db0.chunk.css",
-    "main.js": "/eco-project/static/js/main.bc1be338.chunk.js",
-    "main.js.map": "/eco-project/static/js/main.bc1be338.chunk.js.map",
+    "main.css": "/eco-project/static/css/main.25911a1c.chunk.css",
+    "main.js": "/eco-project/static/js/main.f571b287.chunk.js",
+    "main.js.map": "/eco-project/static/js/main.f571b287.chunk.js.map",
     "runtime-main.js": "/eco-project/static/js/runtime-main.be50c007.js",
     "runtime-main.js.map": "/eco-project/static/js/runtime-main.be50c007.js.map",
-    "static/js/2.5bc02d98.chunk.js": "/eco-project/static/js/2.5bc02d98.chunk.js",
-    "static/js/2.5bc02d98.chunk.js.map": "/eco-project/static/js/2.5bc02d98.chunk.js.map",
+    "static/js/2.64a9066f.chunk.js": "/eco-project/static/js/2.64a9066f.chunk.js",
+    "static/js/2.64a9066f.chunk.js.map": "/eco-project/static/js/2.64a9066f.chunk.js.map",
     "index.html": "/eco-project/index.html",
-    "static/css/main.f7715db0.chunk.css.map": "/eco-project/static/css/main.f7715db0.chunk.css.map",
-    "static/js/2.5bc02d98.chunk.js.LICENSE.txt": "/eco-project/static/js/2.5bc02d98.chunk.js.LICENSE.txt",
-    "static/media/Greeting.module.scss": "/eco-project/static/media/plant.0a9605fd.png"
+    "static/css/main.25911a1c.chunk.css.map": "/eco-project/static/css/main.25911a1c.chunk.css.map",
+    "static/js/2.64a9066f.chunk.js.LICENSE.txt": "/eco-project/static/js/2.64a9066f.chunk.js.LICENSE.txt",
+    "static/media/Greeting.module.scss": "/eco-project/static/media/plant.0a9605fd.png",
+    "static/media/rules.82667e71.png": "/eco-project/static/media/rules.82667e71.png"
   },
   "entrypoints": [
     "static/js/runtime-main.be50c007.js",
-    "static/js/2.5bc02d98.chunk.js",
-    "static/css/main.f7715db0.chunk.css",
-    "static/js/main.bc1be338.chunk.js"
+    "static/js/2.64a9066f.chunk.js",
+    "static/css/main.25911a1c.chunk.css",
+    "static/js/main.f571b287.chunk.js"
   ]
 }
