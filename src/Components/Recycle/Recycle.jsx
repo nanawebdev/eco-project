@@ -20,7 +20,7 @@ const Recycle = () => {
                 </li>
                 <li className={c.Recycle__item}>
                     <p className={c.Recycle__advice}><i className="fas fa-recycle"></i> В пункт приема вторсырья Собиратор</p>
-                    <p className={c.Recycle__subtext}>О том, что еще можно сдать им <i className="fas fa-arrow-right"></i> <a className={c.Recycle__link} href="https://sobirator.ru/spisok/">sobirator.ru</a>
+                    <p className={c.Recycle__subtext}>О том, что еще можно сдать им <i className="fas fa-arrow-right"></i> <a className={c.Recycle__link} href="https://sobirator.ru/spisok/">sobirator.ru/spisok/</a>
                     </p>
                 </li>
                 <li className={c.Recycle__item}>
